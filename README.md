@@ -1,4 +1,4 @@
-# Scalability - OS And Network Guide
+# Scalability - OS And Network Guide By James Leung
 Beginner to Intermediate-advanced guide created to help self and others learn more about scalability and reliability, along with site reliability and system design topics.
 Deep dives into how network packets are handled, LS, linking, memory, file systems, and context switches/scheduling at OS-level. Networking includes different protocols, version differences between HTTP 1 vs 2 vs 3 and TLS versions, along with system design of Youtube and other common platforms. 
 
