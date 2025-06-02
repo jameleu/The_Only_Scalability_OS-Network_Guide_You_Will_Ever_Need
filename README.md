@@ -6,9 +6,9 @@ Good for curious programmers looking to improve their knowledge of scalable syst
 Very heavily built off of Brendan Gregg's blog and Systems Performance book.
 
 ## How to use:
-* Summaries sections for OS and Troubleshooting are condensed versions with helpful thinking frameworks instead of just a bunch of sections for different topics - ~15-25 pages each
-  * Network/System Design notes in here too; is inbetween deep dive and summary, is around ~50 pages
-* Deeper dives/notes from Brendan Greg's Blog/book + Other Classical OS Textbooks in Deeper Dives folder (OS, Troubleshooting) - ~50+ pages
+* Summaries sections for OS and Troubleshooting are condensed versions with helpful thinking frameworks instead of just a bunch of sections for different topics - **~15-25 pages each**
+  * Network/System Design notes in here too; is inbetween deep dive and summary, is around **~50 pages**
+* Deeper dives/notes from Brendan Greg's Blog/book + Other Classical OS Textbooks in Deeper Dives folder (OS x2, Troubleshooting) - **~50+ pages**
   
 ## Sources include:
 * Kerrisk, Michael - The Linux programming interface a Linux und UNIX system programming handbook (2018, No Starch Press)
